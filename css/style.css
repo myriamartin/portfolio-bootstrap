@@ -1,0 +1,11 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+hr {
+  margin: 2rem 0;
+  opacity: 1;
+  height: 0.2rem !important;
+  border-radius: 2rem;
+}
