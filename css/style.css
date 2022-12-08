@@ -9,3 +9,10 @@ hr {
   height: 0.2rem !important;
   border-radius: 2rem;
 }
+.fa-brands,
+.fab {
+  font-weight: 400;
+  font-size: 3rem;
+  margin-right: 1rem;
+  margin-top: 5px;
+}
