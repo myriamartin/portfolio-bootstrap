@@ -35,10 +35,10 @@ My portfolio page consists of the following sections:
 
 - [Github Pages Guide](https://pages.github.com/)
 
-- [FontAwesome](https://pages.github.com/).
+- [FontAwesome](https://fontawesome.com/kits).
 - [SVG images](https://undraw.co/).
 - [Placeholder images](https://picsum.photos/).
-- [Google Fonts](https://pages.github.com/).
+- [Google Fonts](https://fonts.google.com/).
 
 ## Technology
 
