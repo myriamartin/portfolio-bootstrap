@@ -1,12 +1,29 @@
+/*reset styles*/
 *,
 *::before,
 *::after {
   box-sizing: border-box;
 }
+dl,
+ol,
+ul {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+ol,
+ul {
+  padding-left: 0;
+}
+
+/*body style css*/
+#hero-banner {
+  background-color: #f0f0f0 !important;
+}
 hr {
-  margin: 2rem 0;
+  margin: 0rem 0;
   opacity: 1;
-  height: 0.2rem !important;
+  height: 0.1rem !important;
   border-radius: 2rem;
 }
 .fa-brands,
@@ -15,4 +32,29 @@ hr {
   font-size: 3rem;
   margin-right: 1rem;
   margin-top: 5px;
+}
+footer i {
+  font-size: 2rem;
+  color: white;
+}
+
+footer ul li {
+  text-decoration: none;
+  list-style: none;
+}
+
+footer ul li a i:hover {
+  color: #666;
+  box-shadow: dimgray;
+}
+
+footer .fa-brands {
+  font-size: 2rem;
+}
+
+/*button hover stytes*/
+button:hover {
+  box-shadow: 11px 7px 14px -2px rgba(181, 181, 181, 0.76);
+  -webkit-box-shadow: 11px 7px 14px -2px rgba(181, 181, 181, 0.76);
+  -moz-box-shadow: 11px 7px 14px -2px rgba(181, 181, 181, 0.76);
 }
