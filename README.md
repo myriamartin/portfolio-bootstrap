@@ -2,7 +2,7 @@
 
 ## Description
 
-In this challenge, I've built a responsive portfolio using the Bootstrap 5 CSS Framework to put into practice the utility classes, color, components such as navbar, forms, cards, Bootstrap flexbox classes and Bootstrap grid system that we've learned during the third week of the boot camp.
+My goal in this challenge is to use the Bootstrap 5 frontend CSS and JavaScript Framework to build a responsive portfolio that incorporates the skills learned during the third week of boot camp, such as utility classes, color schemes, components such as navbars, forms, cards, Bootstrap flexbox classes, and the Bootstrap CSS responsive grid system.
 
 ## Table of content
 
@@ -13,19 +13,18 @@ In this challenge, I've built a responsive portfolio using the Bootstrap 5 CSS F
 - Skills Section
 - About Section
 - Contact Section
-- Footer - Social Media Section
+- Footer - Social Media links
 
 ## Usage
 
-My portfolio page consists of the following sections:
+On my portfolio page, you will find the following sections:
 
-- A Navigation bar at the top of the page with my name on it and a menu with link items that linked to the appropriate sections.
-- Below the navigation bar you can find the Hero section with an image the name of the business a CTA that links to the contact section with a form component at the bottom of the page.
-- Following the Hero section there is a section with the Selected work. I've used the Bootstrap card component with a brief overview of each of them, which will be updated in the near future.
-- Once you scrolled down the portfolio section you can see a list of Skills in grid which I'll be gaining and perfecting during these weeks in the bootcamp.
-- Both the About and Contact section have been build using flexbox bootstrap classes and offset, with no need of media queries.
-- Contact section also included with a form component
-- At the bottom of the page the Footer Section a list of social media can be founds and also the option to go back to the top of the page.
+- On the top of the page you will find a navigation bar with my name and a menu with links to the various sections.
+- Located below the navigation bar is a Hero section with an image, the business name, and a call-to-action that links to the contact form.
+- Immediately following the Hero section is the Selected work section. I have used the Bootstrap card component and provided a brief overview of each, which will be updated soon.
+- As you scroll down the portfolio, you will find a list of Skills, which I'll be gaining and polishing over the next few weeks in the boot camp.
+- Both the About and Contact sections are built using the bootstrap grid layout and flexbox bootstrap classes, without the need for media queries. The contact section also includes a form component.
+- Located in the footer section there is a list of social media networks at the bottom of the page, along with an option to return to the top of the page.
 
 ## Helpful Resources
 
